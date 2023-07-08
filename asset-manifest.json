@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/horizon-nepal/static/js/main.0ca6b496.js",
+    "static/media/chitwan_5.png": "/horizon-nepal/static/media/chitwan_5.8d9ccd3fd0aa3f835d78.png",
+    "static/media/chitwan_3.png": "/horizon-nepal/static/media/chitwan_3.7bd11b9d2c8498172d1e.png",
+    "static/media/chitwan_4.png": "/horizon-nepal/static/media/chitwan_4.620a3561a549dbcb6cb2.png",
+    "static/media/chitwan_2.png": "/horizon-nepal/static/media/chitwan_2.6d11ef8f611dfbad2a1f.png",
+    "static/media/chitwan_1.png": "/horizon-nepal/static/media/chitwan_1.fb822bec8f7b28d09db7.png",
+    "static/media/contour.svg": "/horizon-nepal/static/media/contour.44fe7a1c06bee416595603c39be5874b.svg",
+    "static/media/contactBackground.png": "/horizon-nepal/static/media/contactBackground.5d55aedefc6ea68ca37e.png",
+    "static/media/menubackground.png": "/horizon-nepal/static/media/menubackground.0000734dc7de6e534362.png",
+    "static/media/menuicon.png": "/horizon-nepal/static/media/menuicon.1a373a9b7fe42fbc433d.png",
+    "index.html": "/horizon-nepal/index.html",
+    "main.0ca6b496.js.map": "/horizon-nepal/static/js/main.0ca6b496.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0ca6b496.js"
+  ]
+}
